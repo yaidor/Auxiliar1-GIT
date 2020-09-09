@@ -158,7 +158,7 @@ Sigue los siguientes pasos en orden y deberías tener una todolist corriendo en 
 Estas instrucciones están hechas para correr el proyecto desde la consola, una vez que ya lo clonaste. 
 
 __No importa que no entiendas los pasos, aprenderemos como funciona Django en otra clase auxiliar__ 
-1. Desde la consola entra a la carpeta del proyecto todoapp. Deberías ver algo como esto: `user@pc:~/ruta/al/repo/todoapp$ `
+1. Desde la consola entra a la carpeta del proyecto todoapp. Deberías ver algo como esto: `user@pc:~/ruta/al/repo/Auxiliar1-GIT$ `
 2. Deberás crear un ambiente virtual para correr el proyecto. Al trabajar con proyectos de python es importante tener siempre ambientes virtuales. 
 Para crear el ambiente virtual sigue [estas instrucciones](https://tutorial.djangogirls.org/es/django_installation/). 
 Atención que en este caso el proyecto ya trae un archivo requirements.txt por lo que debes saltarte el paso de escribir tus propios requirements y solo ejecutar `pip install -r requirements.txt`.
