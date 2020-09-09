@@ -80,6 +80,8 @@ En este paso cada integrante del grupo hará un cambio en el proyecto, que no af
     ![Git Merge](merge-nano.png)
     
     Se debe salir de ahí siguiendo las instrucciones de la consola y __Persona B__ ya tendrá los cambios remotos en su computador. 
+    >Si no hay instrucciones para salir de ahí, probablemente estás usando VIM. Prueba escribiendo :wq y Enter, si no te resulta llama a la auxiliar. 
+    
     __Persona B__ deberá hacer `git push` denuevo para que sus cambios queden en el repositorio remoto. 
     
 5. __Persona A__ hace `git pull` en la consola de Git y podrá ver los cambios hechos por __Persona B__ sin problemas. 
